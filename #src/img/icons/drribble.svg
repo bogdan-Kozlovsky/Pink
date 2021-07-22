@@ -1,0 +1,16 @@
+<svg id="Группа_3" data-name="Группа 3" xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #696b6a;
+      }
+
+      .cls-2 {
+        fill: #252825;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_2_copy_2" data-name="Ellipse 2 copy 2" class="cls-1" cx="26" cy="26" r="26"/>
+  <path id="dribbble" class="cls-2" d="M1057.5,1796a16.5,16.5,0,1,1-16.5,16.5A16.5,16.5,0,0,1,1057.5,1796Zm0,3.3a13.2,13.2,0,1,1-13.2,13.2A13.2,13.2,0,0,1,1057.5,1799.3Zm-6.6,0s9.9,12.1,12.1,26.4l2.2-2.2s-2.2-14.3-12.1-25.3Zm15.4,2.2a28.476,28.476,0,0,1-8.8,5.5,33.678,33.678,0,0,1-15.4,2.2v2.2s11,3.3,27.5-8.8Zm-19.8,20.9s6.6-15.4,25.3-9.9v2.2s-15.4-5.5-23.1,8.8Z" transform="translate(-1032 -1786)"/>
+</svg>

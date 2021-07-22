@@ -1,0 +1,16 @@
+<svg id="Группа_4" data-name="Группа 4" xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #696b6a;
+      }
+
+      .cls-2 {
+        fill: #272c2c;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_2_copy_3" data-name="Ellipse 2 copy 3" class="cls-1" cx="26" cy="26" r="26"/>
+  <path id="share" class="cls-2" d="M1140.17,1799a4.82,4.82,0,1,1-4.84,4.82A4.825,4.825,0,0,1,1140.17,1799Zm-19.34,8.68a4.815,4.815,0,1,1-4.83,4.81A4.825,4.825,0,0,1,1120.83,1807.68Zm19.34,8.68a4.82,4.82,0,1,1-4.84,4.82A4.825,4.825,0,0,1,1140.17,1816.36Zm-19.73-3.37-1.02-2.71,20.84-7.75,1.01,2.71Zm-0.72.71,1.27-2.6,19.98,9.72-1.27,2.6Z" transform="translate(-1105 -1786)"/>
+</svg>

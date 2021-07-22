@@ -1,0 +1,61 @@
+.descr {
+  @include adaptiv-value("padding-top", 50, 25, 1);
+  @include adaptiv-value("padding-bottom", 80, 40, 1);
+
+  &__item {
+    &:not(:last-child) {
+      @include adaptiv-value("margin-bottom", 80, 40, 1);
+    }
+    display: flex;
+  }
+
+  &__box-img {
+    margin-right: 25px;
+  }
+
+  &__img {
+    object-fit: cover;
+  }
+
+  &__content {
+    @include adaptiv-value("margin-left", 25, 15, 1);
+  }
+
+  &__title {
+    margin-bottom: 17px;
+    @include adaptiv-value("font-size", 27, 20, 1);
+    line-height: 1.2;
+  }
+
+  &__text {
+    color: $def;
+  }
+}
+
+@media (max-width: 800px) {
+  .descr {
+    &__item {
+      display: block;
+    }
+
+    &__box-img {
+      float: left;
+      margin: 0px 15px 10px 0px;
+    }
+  }
+}
+@media (max-width: 370px) {
+  .descr {
+    &__box-img {
+      float: none;
+    }
+
+    &__img {
+      width: 100%;
+    }
+
+    &__title {
+      text-align: center;
+    }
+  }
+}
